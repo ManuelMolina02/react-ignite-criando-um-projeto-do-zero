@@ -22,6 +22,12 @@
  O layout pode ser acessado através do Figma, basta [clicar aqui](https://www.figma.com/file/1LnzxwB7qK4oXgiCLuoD20/Desafios-M%C3%B3dulo-3---Ignite%2F-ReactJS?node-id=24601%3A122)
 
  <h1 align="center">
+    <img alt="monitor_example" title="monitor_example" src="./public/images/exampleImage.png" width="100%" height='600px'  />
+</h1>
+
+
+
+ <h1 align="center">
     <img alt="monitor_example" title="monitor_example" src="./public/images/monitorExample.svg" width="380px"  />
 </h1>
 
