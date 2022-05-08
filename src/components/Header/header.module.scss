@@ -1,1 +1,12 @@
-// TODO
+.headerContainer {
+  margin: 4rem 0 3rem;
+
+  max-width: 1020px;
+  margin: 0 auto;
+  padding: 2rem;
+
+  nav {
+    display: flex;
+    gap: 40px;
+  }
+}
