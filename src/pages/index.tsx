@@ -28,6 +28,7 @@ interface HomeProps {
 
 interface exampleProps {
   posts: {
+    uid: string;
     title: string;
     subtitle: string;
     author: string;
