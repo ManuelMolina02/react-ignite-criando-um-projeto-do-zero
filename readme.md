@@ -1,11 +1,11 @@
 <h1 align="center">
-   </>spacetraveling | Desafio Ignite - Módulo 3
+   </>spacetraveling | Desafio Módulo 3 - Ignite ReactJS 
 </h1>
 
 <br/>
 
 ## 💻 Projeto
- Neste desafio são demonstrados alguns conhecimentos adquiridos na trilha de ReactJS, esta aplicação foi recebida praticamente em branco e no decorrer do desenvolvimento foram implementadas as seguintes funcionalidades:
+ Neste desafio são demonstrados alguns conhecimentos adquiridos na trilha de ReactJS, esta aplicação foi recebida praticamente em branco e tem como objetivo apresentar posts que abordam conteúdos de programação, no decorrer do desenvolvimento foram implementadas as seguintes funcionalidades:
 
   - Estilizações global, comum e individuais;
   - Importação de fontes Google;
@@ -25,11 +25,6 @@
     <img alt="monitor_example" title="monitor_example" src="./public/images/exampleImg.png" width="100%" />
 </h1>
 
-
-
- <h1 align="center">
-    <img alt="monitor_example" title="monitor_example" src="./public/images/monitorExample.svg" width="380px"  />
-</h1>
 
  ## 🚀 Tecnologias
 
