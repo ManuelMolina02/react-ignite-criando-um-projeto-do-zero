@@ -1,11 +1,12 @@
 import styles from './header.module.scss';
+import Link from 'next/link';
 
 export default function Header() {
   return (
     <header className={styles.headerContainer}>
-      <img src="/images/logo.svg" alt="" />
-
-
+      <Link href={"/"}>
+        <img src="/images/logo.svg" alt="logo" />
+      </Link>
     </header>
   )
 }
