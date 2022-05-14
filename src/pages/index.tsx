@@ -45,9 +45,6 @@ export default function Home({ postsPagination }: HomeProps) {
       setNextPage(null)
     }
 
-    console.log(json);
-
-
   }
 
   return (
@@ -94,7 +91,6 @@ export const getStaticProps: GetStaticProps = async () => {
     page: 1,
   });
 
-  //retornar o resultado da requisição de acordo com a interface Posts[]
   const posts = postsResponse.results.map((post) => {
 
     return {
